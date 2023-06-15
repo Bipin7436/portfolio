@@ -1,0 +1,194 @@
+#logo{
+    height:30px;
+    width:30px;
+    /* color:white; */
+    background-color: white;
+}
+#moto{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    color:skyblue;
+}
+.header{
+    height:20px;
+    background-color:lightblue;
+    padding: 4px 2px 4px 2px;
+    
+    
+}
+
+#hme{
+margin-left:1000px;
+text-decoration: none;
+}
+#abt{
+    text-decoration: none;
+}
+
+#projs{
+    /* margin-left: 600px; */
+    text-decoration: none;
+    
+}
+#cont{
+    /* margin-left:px; */
+    text-decoration: none;
+}
+#hme:hover{
+    background-color: blue;
+    border-radius: 2px;
+    color:white;
+    
+}
+#abt:hover{
+    background-color: blue;
+    border-radius: 2px;
+    color:white;
+    
+}
+#projs:hover{
+    background-color: blue;
+    border-radius: 2px;
+    color:white;
+    
+}
+#cont:hover{
+    background-color: blue;
+    border-radius: 2px;
+    color:white;
+}
+.projects{
+    margin-left:20px;
+    margin-top:20px;
+    /* background-color: blue; */
+    border-width: 0.5px;
+    border-color:lightblue;
+    border-style:solid;
+    
+    
+}
+#proj_img{
+    margin-top:2px;
+    margin-left:2px;
+    height:200px;
+    width:300px;
+}
+#projInfo{
+    margin-left:5px;
+    position:absolute;
+}
+.main{
+    display:flex;
+}
+#row{
+    height:600px;
+}
+#myPic{
+    height:500px;
+    width:380px;
+    background-color: white;
+
+}
+#soc_contacts{
+    position:absolute;
+    margin-top:80px;
+    margin-left:500px;
+}
+#icons{
+    font-size:30px;
+    color:white;
+    background-color: black;
+}
+#contact{
+    margin-left:20px;
+    color:cornflowerblue;
+    font-size:20px;
+}
+.phone{
+    margin-top:40px;
+}
+.gmail{
+    margin-top:40px;
+}
+.github{
+    margin-top:40px;
+}
+.linkedin{
+    margin-top:40px;
+}
+#contact{
+    margin-left:40px;
+}
+#aboutMe{
+    position:absolute;
+    margin-top:15px;
+    margin-left:410px;
+    
+}
+#subHead{
+    color:blue;
+}
+#details{
+    margin-right:20px;
+    color:cornflowerblue;
+}
+#abtme1{
+    /* position:absolute; */
+    margin-top: 120px;
+    margin-left: 80px;
+    font-size:30px;
+    color:cornflowerblue;
+}
+#abtme2{
+    position:absolute;
+    margin-top: 180px;
+    margin-left: 460px;
+    
+    font-size: 20px;
+    color:skyblue;
+}
+
+.socialMedia{
+    display:flexbox;
+    background-color: cornflowerblue;
+    padding:30px 30px 30px 30px;
+    
+}
+#foot{
+    margin-left:500px;
+}
+#fb{
+    /* margin-left:500px; */
+    color:white;
+    /* margin-right:30px; */
+}
+#twit{
+    margin-left:20px;
+    color:white;
+}
+#gmail{
+    margin-left:20px;
+    color:white;
+}
+#insta{
+    margin-left:20px;
+    color:white;
+}
+#link{
+    margin-left:20px;
+    color: white;
+}
+#git{
+    margin-left:20px;
+    color:white;
+}
+.footer2{
+    background-color: darkblue;
+    color:white;
+    
+}
+#gradious{
+    margin-left:505px;
+    color:darkgray;
+}
+
